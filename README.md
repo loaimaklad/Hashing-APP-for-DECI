@@ -1,4 +1,5 @@
-#HASHING-ALGRITHM-122
+HASHING-ALGRITHM-122
+===============
 code is only using some new hashing algorithm itis by using ASCII ord() * hashing code as you want
 ===================================================================================================
 "s1 = ord(x)+802009" This code is using a var to save the ord of x in ASCII and * with the hashing code. in code itis uses 802009 as a hashing code ;
